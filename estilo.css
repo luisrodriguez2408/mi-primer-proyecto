@@ -1,0 +1,57 @@
+/*Estilo para el Cuerpo*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #b4afb1;
+
+}
+
+header{
+    background-color: #c1c6c9;
+}
+
+p {
+    font-weight: bold;
+    
+}
+#p1{
+    background-color:rgb(189, 182, 185);
+}
+
+.perfil{
+    width:15%;
+    border: 3px solid orange;
+    border-radius: 10%;
+}
+
+/*Estilo de la Sesion 4*/
+ul{
+    list-style-type:decimal;
+    font-style: inherit;
+}
+ol{
+    list-style-type:decimal ;
+    font-style: italic;
+}
+.anidadas{
+    list-style-type: decimal;
+}
+table{
+   padding: 40px;
+} td,th {
+    border: 2px rgb(223, 223, 195) dotted;
+    background-color: hsl(202, 60%, 51%);
+    }
+.WINDOWS{
+    list-style-type:circle;
+}
+.linux{
+    list-style-type: upper-roman;
+}
+.ARM{
+    list-style-type: lower-alpha;
+}
+/* ESTILO DE LA SESION  5*/
+.genero{
+    display: inline;
+    margin: auto 10px;
+}
